@@ -1,0 +1,1 @@
+let maincontainer=document.getElementById("maincontainer");function changeBackground(n){maincontainer.style.backgroundColor=n}
